@@ -1,4 +1,4 @@
-# Crawl all items from D-Market
+# Crawl all items from Skins-money
 - This is public project to crawl all items from D-Market
 
 ## Features
